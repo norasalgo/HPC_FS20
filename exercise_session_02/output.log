@@ -1,0 +1,168 @@
+Thread rank: 22
+Thread rank: 6
+Thread rank: 31
+Thread rank: 18
+Thread rank: 26
+Thread rank: 32
+Thread rank: 14
+Thread rank: 4
+Thread rank: 24
+Thread rank: 13
+Thread rank: 28
+Thread rank: 16
+Thread rank: 30
+Thread rank: 20
+Thread rank: 0
+Thread rank: 10
+Thread rank: 2
+Thread rank: 8
+Thread rank: 34
+Thread rank: 35
+Thread rank: 7
+Thread rank: 1
+Thread rank: 19
+Thread rank: 27
+Thread rank: 33
+Thread rank: 15
+Thread rank: 5
+Thread rank: 25
+Thread rank: 12
+Thread rank: 29
+Thread rank: 17
+Thread rank: 21
+Thread rank: 11
+Thread rank: 3
+Thread rank: 9
+Thread rank: 23
+pi is approximately 3.1415926555898217, Error is 0.0000000020000286
+Computed in 0.1545 seconds
+Thread rank: 34
+Thread rank: 6
+Thread rank: 21
+Thread rank: 23
+Thread rank: 10
+Thread rank: 11
+Thread rank: 13
+Thread rank: 2
+Thread rank: 31
+Thread rank: 35
+Thread rank: 15
+Thread rank: 19
+Thread rank: 26
+Thread rank: 20
+Thread rank: 4
+Thread rank: 5
+Thread rank: 0
+Thread rank: 22
+Thread rank: 1
+Thread rank: 28
+Thread rank: 16
+Thread rank: 18
+Thread rank: 17
+Thread rank: 8
+Thread rank: 32
+Thread rank: 9
+Thread rank: 12
+Thread rank: 24
+Thread rank: 33
+Thread rank: 25
+Thread rank: 29
+Thread rank: 30
+Thread rank: 27
+Thread rank: 3
+Thread rank: 7
+Thread rank: 14
+pi is approximately 3.1415926555898217, Error is 0.0000000020000286
+Computed in 0.1528 seconds
+ 
+Batch Job Summary Report for Job "ns_hpc_sheet2_mpi" (20780594) on daint
+-----------------------------------------------------------------------------------------------------
+             Submit            Eligible               Start                 End    Elapsed  Timelimit 
+------------------- ------------------- ------------------- ------------------- ---------- ---------- 
+2020-03-05T15:14:47 2020-03-05T15:14:48 2020-03-05T15:16:26 2020-03-05T15:17:15   00:00:49   00:05:00 
+-----------------------------------------------------------------------------------------------------
+Username    Account     Partition   NNodes   Energy
+----------  ----------  ----------  ------  --------------
+course89    uzh8        debug            1    1.44K joules
+ 
+This job did not utilize any GPUs
+ 
+----------------------------------------------------------
+Scratch File System        Files       Quota
+--------------------  ----------  ----------
+/scratch/snx3000             132     1000000
+ 
+ 
+Batch Job Summary Report for Job "ns_hpc_sheet2_mpi" (20780581) on daint
+-----------------------------------------------------------------------------------------------------
+             Submit            Eligible               Start                 End    Elapsed  Timelimit 
+------------------- ------------------- ------------------- ------------------- ---------- ---------- 
+2020-03-05T15:13:28 2020-03-05T15:13:28 2020-03-05T15:16:34 2020-03-05T15:17:20   00:00:46   00:05:00 
+-----------------------------------------------------------------------------------------------------
+Username    Account     Partition   NNodes   Energy
+----------  ----------  ----------  ------  --------------
+course89    uzh8        normal           1    1.51K joules
+ 
+This job did not utilize any GPUs
+ 
+----------------------------------------------------------
+Scratch File System        Files       Quota
+--------------------  ----------  ----------
+/scratch/snx3000             132     1000000
+ 
+Thread rank: 12
+Thread rank: 8
+Thread rank: 33
+Thread rank: 32
+Thread rank: 30
+Thread rank: 31
+Thread rank: 11
+Thread rank: 21
+Thread rank: 7
+Thread rank: 25
+Thread rank: 3
+Thread rank: 35
+Thread rank: 9
+Thread rank: 13
+Thread rank: 0
+Thread rank: 14
+Thread rank: 16
+Thread rank: 1
+Thread rank: 15
+Thread rank: 5
+Thread rank: 27
+Thread rank: 17
+Thread rank: 10
+Thread rank: 20
+Thread rank: 6
+Thread rank: 29
+Thread rank: 28
+Thread rank: 22
+Thread rank: 23
+Thread rank: 24
+Thread rank: 34
+Thread rank: 2
+Thread rank: 26
+Thread rank: 19
+Thread rank: 4
+Thread rank: 18
+pi is approximately 3.1415926555898217, Error is 0.0000000020000286
+Computed in 0.152 seconds
+ 
+Batch Job Summary Report for Job "ns_hpc_sheet2_mpi" (20780579) on daint
+-----------------------------------------------------------------------------------------------------
+             Submit            Eligible               Start                 End    Elapsed  Timelimit 
+------------------- ------------------- ------------------- ------------------- ---------- ---------- 
+2020-03-05T15:13:27 2020-03-05T15:13:27 2020-03-05T15:16:34 2020-03-05T15:17:28   00:00:54   00:05:00 
+-----------------------------------------------------------------------------------------------------
+Username    Account     Partition   NNodes   Energy
+----------  ----------  ----------  ------  --------------
+course89    uzh8        normal           1    2.11K joules
+ 
+This job did not utilize any GPUs
+ 
+----------------------------------------------------------
+Scratch File System        Files       Quota
+--------------------  ----------  ----------
+/scratch/snx3000             132     1000000
+ 
