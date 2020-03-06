@@ -1,6 +1,6 @@
 #!/bin/bash -l
 #SBATCH --account=uzh8
-#SBATCH --job-name="ns_hpc_sheet2_mpi"
+#SBATCH --job-name="ns_hpc_sheet2_omp"
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=nora.salgo@uzh.ch
 #SBATCH --time=00:05:00
