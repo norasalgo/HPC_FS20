@@ -9,15 +9,13 @@ then
       echo "no file given"
 fi
 
-if [ ! -f $1 ]; 
-then
+if [ ! -f $1 ] ; then
     echo "$1 does not exist"
 fi
 
-
-while IFS= read line; 
-do 
-	echo ${line}; 
-	printf '\n';
-	printf '\n'
+while IFS= read line
+do
+if [[ -n $line ]] ; then
+	echo ${line}
+fi	
 done < $1
